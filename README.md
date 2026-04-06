@@ -52,7 +52,7 @@ Analyzed clothing store sales data to identify trends, track performance, and ge
 ---
 
 ## 🖼 Dashboard Preview
-![Dashboard](Clothing Store DAshboard.png)
+![Dashboard](Clothing_Store_Dashboard.png)
 
 ---
 
