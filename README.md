@@ -56,7 +56,7 @@ Analyzed clothing store sales data to identify trends, track performance, and ge
 
 ---
 ## 📥 Download Dataset
-[Click here to download Excel file](clothing_sales_2023.xlsx)
+[Click here to download Excel file](clothing_sales_2023.xlsx?raw=true)
 
 ## 🚀 How to Use
 1. Download the Excel file
